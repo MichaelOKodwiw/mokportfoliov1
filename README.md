@@ -1,5 +1,5 @@
 # MOK Portfolio
-Using AI tutor I built  clean, responsive personal developer portfolio website built with semantic HTML5, CSS3, and vanilla JavaScript.
+I built a clean, responsive personal developer portfolio website built with semantic HTML5, CSS3, and vanilla JavaScript.
 
 ## Features
 - **Responsive Navigation:** Desktop flex navigation bar that collapses into an accessible mobile hamburger menu below `768px`, complete with `aria-expanded` state updates and automatic menu closing on link selection.
