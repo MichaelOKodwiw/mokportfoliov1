@@ -15,7 +15,7 @@ I built a clean, responsive personal developer portfolio website built with sema
 ## Learning Process & AI Attribution
 After completing an introductory bootcamp, I built this portfolio as part of my self-directed learning to strengthen my core front-end fundamentals. 
 
-During development, I used an AI assistant in a **guided tutor mode** (similar to freeCodeCamp's step-by-step approach) to review my code, explain concepts like Flexbox alignment, `object-fit`, CSS Grid `auto-fit`, and accessible HTML structure, and walk me through implementing each section myself.
+During development, I used an AI assistant in a **guided tutor mode** to review my code, explain concepts like Flexbox alignment, `object-fit`, CSS Grid `auto-fit`, and accessible HTML structure, and walk me through implementing each section myself.
 
 ## Future Improvements
 - Connect the contact form to a backend service or form handler (such as Formspree) to receive live messages.
